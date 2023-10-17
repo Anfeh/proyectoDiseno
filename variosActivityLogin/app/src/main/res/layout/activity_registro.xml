@@ -135,7 +135,7 @@
                 android:layout_marginStart="10dp"
                 android:fontFamily="@font/texto"
                 android:hint="@string/edad"
-                android:inputType="text"
+                android:inputType="number"
                 android:textSize="20sp" />
 
         </LinearLayout>
