@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">variosActivityLogin</string>
+    <string name="inicio_sesion">Inicio de Sesion</string>
+    <string name="mail">ejemplo@gmail.com</string>
+    <string name="password">**********</string>
+    <string name="olvidoPassword">¿Se te olvido la contrasena?</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signIn">Sign In</string>
+    <string name="bienvenido">Bienvenido Usuario</string>
+    <string name="registro">Registro</string>
+    <string name="edad">Introduzca su edad...</string>
+    <string name="nombre">Introduzca su nombre...</string>
+    <string name="condiciones">Aceptar las condiciones y terminos</string>
+    <string name="errorInicio">Error de inicio sesion</string>
+    <string name="volverInicio">Volver a inicio sesion</string>
+    <string name="condicionesMain">Condiciones</string>
+    <string name="todoCondiciones">Garantiza que la información personal que usted envía cuenta con la seguridad necesaria. Los datos ingresados por usuario o en el caso de requerir una validación de los pedidos no serán entregados a terceros, ç
+        salvo que deba ser revelada en cumplimiento a una orden judicial o requerimientos legales.La suscripción a boletines de correos electrónicos publicitarios es voluntaria y podría ser seleccionada
+        al momento de crear su cuenta.inicioSesion reserva los derechos de cambiar o de modificar estos términos sin previo aviso.</string>
+
+
+</resources>
