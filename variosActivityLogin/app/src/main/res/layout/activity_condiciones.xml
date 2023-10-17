@@ -20,17 +20,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
-        android:id="@+id/textView6"
-        android:layout_width="403dp"
-        android:layout_height="458dp"
-        android:fontFamily="@font/texto"
-        android:text="@string/todoCondiciones"
-        android:textAlignment="center"
-        android:textSize="20dp"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="186dp" />
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="64dp"
@@ -42,4 +31,23 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.976"
         app:srcCompat="@drawable/blade" />
+
+    <ScrollView
+        android:layout_width="409dp"
+        android:layout_height="500dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="96dp">
+
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="403dp"
+            android:layout_height="458dp"
+            android:fontFamily="@font/texto"
+            android:text="@string/todoCondiciones"
+            android:textAlignment="center"
+            android:textSize="20dp" />
+
+    </ScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
